@@ -4,7 +4,6 @@ I am a passionate professional making a dedicated transition into the tech indus
 
 ## 🚀 Current Focus
 * Participating in the Generation program to solidify my software development skills.
-* Mastering **Python** for robust backend development.
 * Learning **AWS** infrastructure to eventually deploy and scale applications.
 * Exploring containerization with **Docker** and version control using **Git/GitHub**.
 
